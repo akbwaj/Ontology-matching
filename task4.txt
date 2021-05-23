@@ -1,0 +1,245 @@
+melioidosis <obo.DOID_5052> is_a primary bacterial infectious disease <obo.DOID_0050338>
+Kaposi's sarcoma <obo.DOID_8632> is_a connective tissue cancer <obo.DOID_201>
+tic disorder <obo.DOID_2769> is_a specific developmental disorder <obo.DOID_0060038>
+cerebral palsy <obo.DOID_1969> is_a brain disease <obo.DOID_936>
+lung cancer <obo.DOID_1324> is_a respiratory system cancer <obo.DOID_0050615>
+Middle East respiratory syndrome <obo.DOID_0080642> is_a Coronavirus infectious disease <obo.DOID_0080599>
+retinitis <obo.DOID_3612> is_a retinal disease <obo.DOID_5679>
+duodenal atresia <obo.DOID_0080216> is_a intestinal atresia <obo.DOID_10486>
+congestive heart failure <obo.DOID_6000> is_a heart disease <obo.DOID_114>
+avian influenza <obo.DOID_4492> is_a influenza <obo.DOID_8469>
+eclampsia <obo.DOID_13593> is_a pre-eclampsia <obo.DOID_10591>
+cardiomyopathy <obo.DOID_0050700> is_a heart disease <obo.DOID_114>
+splenic sequestration <obo.DOID_11786> is_a splenic disease <obo.DOID_2529>
+diphtheria <obo.DOID_11405> is_a primary bacterial infectious disease <obo.DOID_0050338>
+bronchiolitis <obo.DOID_2942> is_a bronchial disease <obo.DOID_1176>
+aortic aneurysm <obo.DOID_3627> is_a aortic disease <obo.DOID_520>
+glomangioma <obo.DOID_2436> is_a benign perivascular tumor <obo.DOID_5238>
+mumps <obo.DOID_10264> is_a salivary gland disease <obo.DOID_10854>
+peptic ulcer disease <obo.DOID_750> is_a gastrointestinal system disease <obo.DOID_77>
+pulmonary edema <obo.DOID_11396> is_a respiratory failure <obo.DOID_11162>
+liver carcinoma <obo.DOID_686> is_a carcinoma <obo.DOID_305>
+acute myocarditis <obo.DOID_3951> is_a myocarditis <obo.DOID_820>
+colitis <obo.DOID_0060180> is_a inflammatory bowel disease <obo.DOID_0050589>
+acute myeloid leukemia <obo.DOID_9119> is_a myeloid leukemia <obo.DOID_8692>
+pancreatic cancer <obo.DOID_1793> is_a endocrine gland cancer <obo.DOID_170>
+progeria <obo.DOID_3911> is_a autosomal genetic disease <obo.DOID_0050739>
+appendicitis <obo.DOID_8337> is_a cecal disease <obo.DOID_1518>
+rubella <obo.DOID_8781> is_a viral infectious disease <obo.DOID_934>
+parotitis <obo.DOID_10301> is_a parotid disease <obo.DOID_10302>
+syndrome <obo.DOID_225> is_a disease <obo.DOID_4>
+pre-eclampsia <obo.DOID_10591> is_a hypertension <obo.DOID_10763>
+pulmonary embolism <obo.DOID_9477> is_a pulmonary artery disease <obo.DOID_60001>
+bronchitis <obo.DOID_6132> is_a bronchial disease <obo.DOID_1176>
+substance abuse <obo.DOID_302> is_a substance-related disorder <obo.DOID_303>
+cognitive disorder <obo.DOID_1561> is_a disease of mental health <obo.DOID_150>
+pericardial effusion <obo.DOID_118> is_a pericardium disease <obo.DOID_0050829>
+adenoma <obo.DOID_657> is_a cell type benign neoplasm <obo.DOID_0060084>
+gastroenteritis <obo.DOID_2326> is_a gastrointestinal system disease <obo.DOID_77>
+glanders <obo.DOID_13444> is_a primary bacterial infectious disease <obo.DOID_0050338>
+migraine <obo.DOID_6364> is_a brain disease <obo.DOID_936>
+cystic fibrosis <obo.DOID_1485> is_a autosomal recessive disease <obo.DOID_0050737>
+bacterial pneumonia <obo.DOID_874> is_a bacterial infectious disease <obo.DOID_104>
+brucellosis <obo.DOID_11077> is_a primary bacterial infectious disease <obo.DOID_0050338>
+chronic obstructive pulmonary disease <obo.DOID_3083> is_a obstructive lung disease <obo.DOID_2320>
+constipation <obo.DOID_2089> is_a bowel dysfunction <obo.DOID_9779>
+idiopathic pulmonary fibrosis <obo.DOID_0050156> is_a pulmonary fibrosis <obo.DOID_3770>
+rabies <obo.DOID_11260> is_a viral infectious disease <obo.DOID_934>
+lipoma <obo.DOID_3315> is_a cell type benign neoplasm <obo.DOID_0060084>
+sinusitis <obo.DOID_0050127> is_a paranasal sinus disease <obo.DOID_1352>
+conduct disorder <obo.DOID_12995> is_a specific developmental disorder <obo.DOID_0060038>
+Kawasaki disease <obo.DOID_13378> is_a lymphadenitis <obo.DOID_1602>
+smallpox <obo.DOID_8736> is_a skin disease <obo.DOID_37>
+sarcoma <obo.DOID_1115> is_a cell type cancer <obo.DOID_0050687>
+kidney disease <obo.DOID_557> is_a urinary system disease <obo.DOID_18>
+multiple sclerosis <obo.DOID_2377> is_a autoimmune disease of central nervous system <obo.DOID_0060004>
+encephalitis <obo.DOID_9588> is_a brain disease <obo.DOID_936>
+acute diarrhea <obo.DOID_0050140> is_a diarrhea <obo.DOID_13250>
+coronary aneurysm <obo.DOID_3362> is_a heart aneurysm <obo.DOID_9768>
+glomerulosclerosis <obo.DOID_0050851> is_a glomerulonephritis <obo.DOID_2921>
+vasculitis <obo.DOID_865> is_a vascular disease <obo.DOID_178>
+liver disease <obo.DOID_409> is_a hepatobiliary disease <obo.DOID_3118>
+multiple myeloma <obo.DOID_9538> is_a myeloid neoplasm <obo.DOID_0070004>
+rheumatoid arthritis <obo.DOID_7148> is_a autoimmune disease of musculoskeletal system <obo.DOID_0060032>
+artery disease <obo.DOID_0050828> is_a vascular disease <obo.DOID_178>
+hepatitis <obo.DOID_2237> is_a liver disease <obo.DOID_409>
+Newcastle disease <obo.DOID_2929> is_a viral infectious disease <obo.DOID_934>
+Streptococcus pneumonia <obo.DOID_0040084> is_a bacterial pneumonia <obo.DOID_874>
+tuberculosis <obo.DOID_399> is_a primary bacterial infectious disease <obo.DOID_0050338>
+cutaneous anthrax <obo.DOID_7426> is_a skin disease <obo.DOID_37>
+obesity <obo.DOID_9970> is_a overnutrition <obo.DOID_654>
+Alzheimer's disease <obo.DOID_10652> is_a tauopathy <obo.DOID_680>
+leukemia <obo.DOID_1240> is_a hematologic cancer <obo.DOID_2531>
+spondylitis <obo.DOID_6590> is_a spondyloarthropathy <obo.DOID_1123>
+lateral sclerosis <obo.DOID_230> is_a motor neuron disease <obo.DOID_231>
+gastritis <obo.DOID_4029> is_a stomach disease <obo.DOID_76>
+lupus erythematosus <obo.DOID_8857> is_a autoimmune disease of musculoskeletal system <obo.DOID_0060032>
+aplastic anemia <obo.DOID_12449> is_a anemia <obo.DOID_2355>
+cerebral cavernous malformation <obo.DOID_0060669> is_a cerebrovascular disease <obo.DOID_6713>
+pertussis <obo.DOID_1116> is_a commensal bacterial infectious disease <obo.DOID_0050339>
+cardiac arrest <obo.DOID_0060319> is_a congestive heart failure <obo.DOID_6000>
+myeloid leukemia <obo.DOID_8692> is_a leukemia <obo.DOID_1240>
+irritable bowel syndrome <obo.DOID_9778> is_a intestinal disease <obo.DOID_5295>
+lymphoma <obo.DOID_0060058> is_a lymphatic system cancer <obo.DOID_0060073>
+poliomyelitis <obo.DOID_4953> is_a peripheral nervous system disease <obo.DOID_574>
+typhoid fever <obo.DOID_13258> is_a primary bacterial infectious disease <obo.DOID_0050338>
+osteomyelitis <obo.DOID_1019> is_a disease by infectious agent <obo.DOID_0050117>
+dilated cardiomyopathy <obo.DOID_12930> is_a intrinsic cardiomyopathy <obo.DOID_0060036>
+systemic lupus erythematosus <obo.DOID_9074> is_a connective tissue disease <obo.DOID_65>
+Colorado tick fever <obo.DOID_4885> is_a viral infectious disease <obo.DOID_934>
+viral pneumonia <obo.DOID_10533> is_a pneumonia <obo.DOID_552>
+head and neck cancer <obo.DOID_11934> is_a organ system cancer <obo.DOID_0050686>
+polycythemia <obo.DOID_8432> is_a bone marrow disease <obo.DOID_4961>
+herpes zoster <obo.DOID_8536> is_a nervous system disease <obo.DOID_863>
+renal tubular acidosis <obo.DOID_14219> is_a renal tubular transport disease <obo.DOID_447>
+stomatitis <obo.DOID_9637> is_a lip disease <obo.DOID_9297>
+nephrotic syndrome <obo.DOID_1184> is_a nephrosis <obo.DOID_2527>
+toxoplasmosis <obo.DOID_9965> is_a coccidiosis <obo.DOID_2113>
+myocarditis <obo.DOID_820> is_a extrinsic cardiomyopathy <obo.DOID_3978>
+autoimmune disease <obo.DOID_417> is_a primary immunodeficiency disease <obo.DOID_612>
+leukopenia <obo.DOID_615> is_a leukocyte disease <obo.DOID_9500>
+mild cognitive impairment <obo.DOID_0080832> is_a cognitive disorder <obo.DOID_1561>
+meningitis <obo.DOID_9471> is_a central nervous system disease <obo.DOID_331>
+exanthem <obo.DOID_0050486> is_a skin disease <obo.DOID_37>
+dementia <obo.DOID_1307> is_a cognitive disorder <obo.DOID_1561>
+Mycobacterium avium complex disease <obo.DOID_2755> is_a primary bacterial infectious disease <obo.DOID_0050338>
+bronchiectasis <obo.DOID_9563> is_a bronchial disease <obo.DOID_1176>
+limb ischemia <obo.DOID_0050852> is_a ischemia <obo.DOID_326>
+major depressive disorder <obo.DOID_1470> is_a mental depression <obo.DOID_1596>
+pericarditis <obo.DOID_1787> is_a pericardium disease <obo.DOID_0050829>
+atherosclerosis <obo.DOID_1936> is_a arteriosclerotic cardiovascular disease <obo.DOID_2348>
+renal fibrosis <obo.DOID_0050855> is_a kidney disease <obo.DOID_557>
+cowpox <obo.DOID_8956> is_a viral infectious disease <obo.DOID_934>
+lipodystrophy <obo.DOID_811> is_a connective tissue disease <obo.DOID_65>
+microcephaly <obo.DOID_10907> is_a congenital nervous system abnormality <obo.DOID_2490>
+thrombocytosis <obo.DOID_2228> is_a blood platelet disease <obo.DOID_2218>
+tetanus <obo.DOID_11338> is_a primary bacterial infectious disease <obo.DOID_0050338>
+heart disease <obo.DOID_114> is_a cardiovascular system disease <obo.DOID_1287>
+vaccinia <obo.DOID_3298> is_a viral infectious disease <obo.DOID_934>
+ptosis <obo.DOID_0060260> is_a eye disease <obo.DOID_5614>
+intestinal disease <obo.DOID_5295> is_a gastrointestinal system disease <obo.DOID_77>
+otitis media <obo.DOID_10754> is_a middle ear disease <obo.DOID_5100>
+yellow fever <obo.DOID_9682> is_a viral infectious disease <obo.DOID_934>
+malaria <obo.DOID_12365> is_a parasitic protozoa infectious disease <obo.DOID_2789>
+arthritis <obo.DOID_848> is_a bone inflammation disease <obo.DOID_3342>
+gastric adenocarcinoma <obo.DOID_3717> is_a adenocarcinoma <obo.DOID_299>
+hantavirus pulmonary syndrome <obo.DOID_14472> is_a lung disease <obo.DOID_850>
+neutropenia <obo.DOID_1227> is_a agranulocytosis <obo.DOID_12987>
+bacterial meningitis <obo.DOID_9470> is_a bacterial infectious disease <obo.DOID_104>
+pneumonic tularemia <obo.DOID_2122> is_a tularemia <obo.DOID_2123>
+cerebrovascular disease <obo.DOID_6713> is_a vascular disease <obo.DOID_178>
+cerebellar ataxia <obo.DOID_0050753> is_a hereditary ataxia <obo.DOID_0050951>
+COVID-19 <obo.DOID_0080600> is_a Coronavirus infectious disease <obo.DOID_0080599>
+anemia <obo.DOID_2355> is_a hematopoietic system disease <obo.DOID_74>
+Norrie disease <obo.DOID_0060844> is_a X-linked recessive disease <obo.DOID_0080012>
+thrombosis <obo.DOID_0060903> is_a vascular disease <obo.DOID_178>
+multidrug-resistant tuberculosis <obo.DOID_401> is_a tuberculosis <obo.DOID_399>
+acquired immunodeficiency syndrome <obo.DOID_635> is_a human immunodeficiency virus infectious disease <obo.DOID_526>
+arteriovenous malformation <obo.DOID_11294> is_a hemangioma <obo.DOID_255>
+schizophrenia <obo.DOID_5419> is_a psychotic disorder <obo.DOID_2468>
+ischemia <obo.DOID_326> is_a vascular disease <obo.DOID_178>
+tick-borne encephalitis <obo.DOID_0050175> is_a viral infectious disease <obo.DOID_934>
+blindness <obo.DOID_1432> is_a eye disease <obo.DOID_5614>
+autism spectrum disorder <obo.DOID_0060041> is_a pervasive developmental disorder <obo.DOID_0060040>
+kidney failure <obo.DOID_1074> is_a kidney disease <obo.DOID_557>
+miliary tuberculosis <obo.DOID_9861> is_a extrapulmonary tuberculosis <obo.DOID_0050598>
+morbid obesity <obo.DOID_11981> is_a obesity <obo.DOID_9970>
+Kyasanur forest disease <obo.DOID_11320> is_a viral infectious disease <obo.DOID_934>
+Crimean-Congo hemorrhagic fever <obo.DOID_12287> is_a viral infectious disease <obo.DOID_934>
+Q fever <obo.DOID_11100> is_a primary bacterial infectious disease <obo.DOID_0050338>
+adenocarcinoma <obo.DOID_299> is_a carcinoma <obo.DOID_305>
+myositis <obo.DOID_633> is_a myopathy <obo.DOID_423>
+aphasia <obo.DOID_0060046> is_a language disorder <obo.DOID_93>
+anxiety disorder <obo.DOID_2030> is_a cognitive disorder <obo.DOID_1561>
+Japanese encephalitis <obo.DOID_10844> is_a viral infectious disease <obo.DOID_934>
+Rift Valley fever <obo.DOID_1328> is_a viral infectious disease <obo.DOID_934>
+diarrhea <obo.DOID_13250> is_a gastrointestinal system disease <obo.DOID_77>
+paralytic poliomyelitis <obo.DOID_0050515> is_a central nervous system disease <obo.DOID_331>
+respiratory failure <obo.DOID_11162> is_a lung disease <obo.DOID_850>
+cholera <obo.DOID_1498> is_a primary bacterial infectious disease <obo.DOID_0050338>
+salmonellosis <obo.DOID_0060859> is_a primary bacterial infectious disease <obo.DOID_0050338>
+toxic shock syndrome <obo.DOID_14115> is_a commensal bacterial infectious disease <obo.DOID_0050339>
+arteriosclerosis <obo.DOID_2349> is_a artery disease <obo.DOID_0050828>
+lung disease <obo.DOID_850> is_a lower respiratory tract disease <obo.DOID_0050161>
+proteinuria <obo.DOID_576> is_a kidney disease <obo.DOID_557>
+bacterial sepsis <obo.DOID_0040085> is_a bacterial infectious disease <obo.DOID_104>
+disseminated intravascular coagulation <obo.DOID_11247> is_a thrombophilia <obo.DOID_2452>
+asthma <obo.DOID_2841> is_a bronchial disease <obo.DOID_1176>
+esophagitis <obo.DOID_11963> is_a esophageal disease <obo.DOID_6050>
+herpes simplex <obo.DOID_8566> is_a viral infectious disease <obo.DOID_934>
+acute myocardial infarction <obo.DOID_9408> is_a myocardial infarction <obo.DOID_5844>
+tularemia <obo.DOID_2123> is_a primary bacterial infectious disease <obo.DOID_0050338>
+influenza <obo.DOID_8469> is_a respiratory system disease <obo.DOID_1579>
+epilepsy <obo.DOID_1826> is_a brain disease <obo.DOID_936>
+myopathy <obo.DOID_423> is_a muscle tissue disease <obo.DOID_66>
+rheumatic fever <obo.DOID_1586> is_a bacterial infectious disease <obo.DOID_104>
+bronchiolitis obliterans <obo.DOID_2799> is_a bronchial disease <obo.DOID_1176>
+aspiration pneumonia <obo.DOID_0050152> is_a bacterial pneumonia <obo.DOID_874>
+inferior myocardial infarction <obo.DOID_5850> is_a myocardial infarction <obo.DOID_5844>
+hyperthyroidism <obo.DOID_7998> is_a thyroid gland disease <obo.DOID_50>
+generalized anxiety disorder <obo.DOID_14320> is_a anxiety disorder <obo.DOID_2030>
+coronary artery disease <obo.DOID_3393> is_a artery disease <obo.DOID_0050828>
+colorectal cancer <obo.DOID_9256> is_a large intestine cancer <obo.DOID_5672>
+cancer <obo.DOID_162> is_a disease of cellular proliferation <obo.DOID_14566>
+osteoporosis <obo.DOID_11476> is_a bone resorption disease <obo.DOID_0080011>
+pneumonia <obo.DOID_552> is_a lung disease <obo.DOID_850>
+diabetic retinopathy <obo.DOID_8947> is_a retinal vascular disease <obo.DOID_2462>
+measles <obo.DOID_8622> is_a viral infectious disease <obo.DOID_934>
+diabetes mellitus <obo.DOID_9351> is_a glucose metabolism disease <obo.DOID_4194>
+hyperglycemia <obo.DOID_4195> is_a glucose metabolism disease <obo.DOID_4194>
+learning disability <obo.DOID_8927> is_a specific developmental disorder <obo.DOID_0060038>
+breast cancer <obo.DOID_1612> is_a breast disease <obo.DOID_3463>
+severe acute respiratory syndrome <obo.DOID_2945> is_a Coronavirus infectious disease <obo.DOID_0080599>
+vascular disease <obo.DOID_178> is_a cardiovascular system disease <obo.DOID_1287>
+papilloma <obo.DOID_2615> is_a cell type benign neoplasm <obo.DOID_0060084>
+purpura <obo.DOID_3326> is_a hemorrhagic disease <obo.DOID_2213>
+essential hypertension <obo.DOID_10825> is_a hypertension <obo.DOID_10763>
+glaucoma <obo.DOID_1686> is_a eye disease <obo.DOID_5614>
+non-alcoholic fatty liver disease <obo.DOID_0080208> is_a fatty liver disease <obo.DOID_9452>
+noma <obo.DOID_9672> is_a ulcerative stomatitis <obo.DOID_9673>
+mouth disease <obo.DOID_403> is_a gastrointestinal system disease <obo.DOID_77>
+neuropathy <obo.DOID_870> is_a peripheral nervous system disease <obo.DOID_574>
+ankylosing spondylitis <obo.DOID_7147> is_a autoimmune disease of musculoskeletal system <obo.DOID_0060032>
+dengue hemorrhagic fever <obo.DOID_12206> is_a dengue disease <obo.DOID_12205>
+myocardial infarction <obo.DOID_5844> is_a coronary artery disease <obo.DOID_3393>
+anthracosis <obo.DOID_10327> is_a pneumoconiosis <obo.DOID_10316>
+amyotrophic lateral sclerosis <obo.DOID_332> is_a motor neuron disease <obo.DOID_231>
+thrombocytopenia <obo.DOID_1588> is_a blood platelet disease <obo.DOID_2218>
+fallopian tube cancer <obo.DOID_1964> is_a female reproductive organ cancer <obo.DOID_120>
+combined immunodeficiency <obo.DOID_0111962> is_a primary immunodeficiency disease <obo.DOID_612>
+focal segmental glomerulosclerosis <obo.DOID_1312> is_a glomerulosclerosis <obo.DOID_0050851>
+colon cancer <obo.DOID_219> is_a colonic disease <obo.DOID_5353>
+lymphopenia <obo.DOID_614> is_a leukopenia <obo.DOID_615>
+gonorrhea <obo.DOID_7551> is_a primary bacterial infectious disease <obo.DOID_0050338>
+plague <obo.DOID_3482> is_a primary bacterial infectious disease <obo.DOID_0050338>
+severe combined immunodeficiency <obo.DOID_627> is_a combined immunodeficiency <obo.DOID_0111962>
+Venezuelan equine encephalitis <obo.DOID_9584> is_a viral infectious disease <obo.DOID_934>
+Omsk hemorrhagic fever <obo.DOID_992> is_a viral infectious disease <obo.DOID_934>
+fatty liver disease <obo.DOID_9452> is_a lipid storage disease <obo.DOID_9455>
+non-alcoholic fatty liver <obo.DOID_0080546> is_a non-alcoholic fatty liver disease <obo.DOID_0080208>
+pulmonary hypertension <obo.DOID_6432> is_a hypertension <obo.DOID_10763>
+cataract <obo.DOID_83> is_a monogenic disease <obo.DOID_0050177>
+conjunctivitis <obo.DOID_6195> is_a conjunctival disease <obo.DOID_4251>
+obsessive-compulsive disorder <obo.DOID_10933> is_a anxiety disorder <obo.DOID_2030>
+lymphedema <obo.DOID_4977> is_a lymphatic system disease <obo.DOID_75>
+arthropathy <obo.DOID_381> is_a bone disease <obo.DOID_0080001>
+Huntington's disease <obo.DOID_12858> is_a neurodegenerative disease <obo.DOID_1289>
+urinary tract infection <obo.DOID_0080784> is_a bacterial infectious disease <obo.DOID_104>
+oral candidiasis <obo.DOID_14262> is_a candidiasis <obo.DOID_1508>
+basal ganglia calcification <obo.DOID_0060230> is_a basal ganglia disease <obo.DOID_679>
+pulmonary fibrosis <obo.DOID_3770> is_a interstitial lung disease <obo.DOID_3082>
+atrial fibrillation <obo.DOID_0060224> is_a heart conduction disease <obo.DOID_10273>
+prostate cancer <obo.DOID_10283> is_a male reproductive organ cancer <obo.DOID_3856>
+endocarditis <obo.DOID_10314> is_a endocardium disease <obo.DOID_0050825>
+urethritis <obo.DOID_1343> is_a urethral disease <obo.DOID_732>
+Parkinson's disease <obo.DOID_14330> is_a synucleinopathy <obo.DOID_0050890>
+intestinal perforation <obo.DOID_2074> is_a intestinal disease <obo.DOID_5295>
+hereditary hemorrhagic telangiectasia <obo.DOID_1270> is_a autosomal dominant disease <obo.DOID_0050736>
+coccidioidomycosis <obo.DOID_13450> is_a primary systemic mycosis <obo.DOID_0050292>
+myelitis <obo.DOID_322> is_a spinal cord disease <obo.DOID_319>
+hypertension <obo.DOID_10763> is_a artery disease <obo.DOID_0050828>
+candidiasis <obo.DOID_1508> is_a opportunistic mycosis <obo.DOID_2473>
+pyuria <obo.DOID_1439> is_a urinary system disease <obo.DOID_18>
+status epilepticus <obo.DOID_1824> is_a epilepsy <obo.DOID_1826>
+carcinoma <obo.DOID_305> is_a cell type cancer <obo.DOID_0050687>
+lung abscess <obo.DOID_0060317> is_a lung disease <obo.DOID_850>
